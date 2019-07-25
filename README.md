@@ -1,2 +1,2 @@
 # spring-learn-01
-DI（xml）
+DI(xml)
